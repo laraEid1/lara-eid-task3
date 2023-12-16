@@ -1,0 +1,18 @@
+
+h1 , h2
+{
+    color: blueviolet;
+}
+ .box  p{
+    color:firebrick !important;
+}
+.list{
+    color:blue;
+}
+.done .box{
+    color:seagreen 
+}
+ul p.done {
+    color: black;
+    font-size: 0.3em;
+}
